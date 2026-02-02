@@ -1,0 +1,27 @@
+/* Minecraftia Font */
+@font-face {
+    font-family: 'Minecraftia';
+    src: url('../assets/fonts/Minecraftia.woff2') format('woff2'),
+         url('../Minecraftia-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Exo 2 Font - Improved */
+@font-face {
+    font-family: 'Exo 2';
+    src: url('https://fonts.googleapis.com/css2?family=Exo+2:wght@200;300;400;500;600;700;800;900&display=swap');
+}
+
+/* Orbitron Font - Improved */
+@font-face {
+    font-family: 'Orbitron';
+    src: url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&display=swap');
+}
+
+/* Rajdhani Font for clean headings */
+@font-face {
+    font-family: 'Rajdhani';
+    src: url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap');
+}
